@@ -1,0 +1,26 @@
+.Pokemon-card {
+    background-color: white;   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;       
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;  
+    margin-left: 100px;  
+    margin-right: 100px;  
+    padding: 10px
+  }
+
+
+  .Pokemon-image {  
+    width: 60%;
+  }
+
+  .Pokemon-text {
+    color: black;
+    font-size: 200%;
+    padding-bottom: 100px
+  }
